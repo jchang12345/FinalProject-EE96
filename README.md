@@ -10,3 +10,5 @@ the main processor after mounting the 9 DOF block. In practical uses, this can b
 to a monitor and run the test neural network program in a c shell. After performing a motion, the program will generate a text that 
 identifies the motion based on how the network was trained. It was pretty accurate in our demo. Link to project powerpoint here or above:
 https://docs.google.com/presentation/d/1pQcIurjjxO_pS6xbqxPL35JCNGeh78hGp8_CLQC_na0/edit
+Link to video demo:
+https://www.youtube.com/watch?v=vbDzIktZ6Go&index=6&list=PLWMfJ0QmZ0FXYXG3_rYL_88Evo2KLB2Ty
